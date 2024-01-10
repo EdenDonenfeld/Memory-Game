@@ -21,4 +21,4 @@ XML Activity files in : app/src/main/res/layout.
 
 IDLE : Android Studio.
 
-run with Emulator, or connect and Android Operation System phone to the computer.
+Run with Emulator, or connect and Android Operation System phone to the computer.
