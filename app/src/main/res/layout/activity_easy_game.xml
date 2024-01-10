@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="4"
+        android:columnCount="2">
+
+        <!-- Row 1 -->
+        <ImageView
+            android:id="@+id/card1"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card2"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 2 -->
+        <ImageView
+            android:id="@+id/card3"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card4"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 3 -->
+        <ImageView
+            android:id="@+id/card5"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card6"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 4 -->
+        <ImageView
+            android:id="@+id/card7"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card8"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+    </GridLayout>
+
+<!--    <Button-->
+<!--        android:id="@+id/returnButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Return"-->
+<!--        android:background="@color/main_color_button"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginBottom="16dp" />-->
+
+</LinearLayout>

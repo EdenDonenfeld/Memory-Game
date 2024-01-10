@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="4"
+        android:columnCount="5">
+
+        <!-- Row 1 -->
+        <ImageView
+            android:id="@+id/card1"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card2"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 2 -->
+        <ImageView
+            android:id="@+id/card3"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card4"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 3 -->
+        <ImageView
+            android:id="@+id/card5"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card6"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 4 -->
+        <ImageView
+            android:id="@+id/card7"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card8"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 1 -->
+        <ImageView
+            android:id="@+id/card9"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card10"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 2 -->
+        <ImageView
+            android:id="@+id/card11"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card12"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 3 -->
+        <ImageView
+            android:id="@+id/card13"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card14"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 4 -->
+        <ImageView
+            android:id="@+id/card15"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card16"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 3 -->
+        <ImageView
+            android:id="@+id/card17"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card18"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <!-- Row 4 -->
+        <ImageView
+            android:id="@+id/card19"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+        <ImageView
+            android:id="@+id/card20"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_columnWeight="1"
+            android:padding="5dp"
+            android:src="@drawable/card" />
+
+    </GridLayout>
+
+</LinearLayout>
