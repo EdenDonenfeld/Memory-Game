@@ -18,3 +18,7 @@ Java Activity files in : app/src/main/java/com/example/cardmemory.
 Card pictures in : app/src/main/res/drawable.
 
 XML Activity files in : app/src/main/res/layout.
+
+IDLE : Android Studio.
+
+run with Emulator, or connect and Android Operation System phone to the computer.
