@@ -1,5 +1,5 @@
 # Card-Memory-Game
-Card memory game app for kids in Android OS.
+Card memory game application for kids in Android OS.
 
 There are four levels in the game :
 
